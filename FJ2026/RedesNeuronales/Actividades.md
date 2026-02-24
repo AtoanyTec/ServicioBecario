@@ -265,19 +265,19 @@ Ejemplos permitidos:
 ---
 
 # 📁 Estructura Esperada
-project/
-│
-├── data_prep/
-├── training/
-├── inference/
-├── models/
-├── server/
-├── ui/
-├── requirements.txt
-├── README.md
-├── DEPLOYMENT.md
-├── AI_LOG.md
-└── PLAN_SERVICIO_BECARIO.md
+project/ <br>
+│<br>
+├── data_prep/<br>
+├── training/<br>
+├── inference/<br>
+├── models/<br>
+├── server/<br>
+├── ui/<br>
+├── requirements.txt<br>
+├── README.md<br>
+├── DEPLOYMENT.md<br>
+├── AI_LOG.md<br>
+└── PLAN_SERVICIO_BECARIO.md<br>
 
 
 ---
