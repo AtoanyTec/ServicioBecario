@@ -220,17 +220,17 @@ Desarrollar un sistema completo y funcional para un TurtleBot utilizando ROS, de
 **Objetivo:** Que cualquier persona pueda instalar y usar el sistema.
 
 **Estructura mínima del repositorio:**
-turtlebot_project/
-│
-├── src/
-├── launch/
-├── maps/
-├── config/
-├── scripts/
-├── ui/
-├── README.md
-├── INSTALL.md
-└── USER_GUIDE.md
+turtlebot_project/ <br>
+│<br>
+├── src/<br>
+├── launch/<br>
+├── maps/<br>
+├── config/<br>
+├── scripts/<br>
+├── ui/<br>
+├── README.md<br>
+├── INSTALL.md<br>
+└── USER_GUIDE.md<br>
 
 
 **Entregable:**
