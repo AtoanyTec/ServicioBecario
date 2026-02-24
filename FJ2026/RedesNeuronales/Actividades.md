@@ -107,6 +107,7 @@ Ejemplos permitidos:
 - Inicio de AI_LOG.md.
 
 **Entregable:** Documento de definición + registro de IA.
+
 **Feche de Entrega:** 03 de marzo, 2026
 
 ---
