@@ -240,7 +240,7 @@ Ejemplos permitidos:
   - Aprendizajes
 
 **Entregables finales:**
-- Repositorio completo.
+- Repositorio completo (GitHub).
 - Modelo entrenado.
 - Servidor funcional.
 - Interfaz funcional.
