@@ -119,6 +119,7 @@ Ejemplos permitidos:
 - Consultar IA sobre estrategias de balanceo.
 
 **Entregable:** Script documentado + reflexión sobre sugerencias de IA.
+
 **Feche de Entrega:** 10 de marzo, 2026
 
 ---
@@ -129,6 +130,7 @@ Ejemplos permitidos:
 - Uso de IA para revisar arquitectura.
 
 **Entregable:** Notebook + análisis crítico de sugerencias de IA.
+
 **Feche de Entrega:** 17 de marzo, 2026
 
 ---
@@ -140,6 +142,7 @@ Ejemplos permitidos:
 - Consultar IA para interpretar métricas y contrastar conclusiones.
 
 **Entregable:** Reporte técnico con reflexión crítica.
+
 **Feche de Entrega:** 24 de marzo, 2026
 
 ---
@@ -150,6 +153,7 @@ Ejemplos permitidos:
 - Solicitar a IA posibles mejoras.
 
 **Entregable:** Tabla comparativa + decisión justificada.
+
 **Feche de Entrega:** 07 de abril, 2026
 
 ---
@@ -161,6 +165,7 @@ Ejemplos permitidos:
 - Validar experimentalmente cada sugerencia.
 
 **Entregable:** Reporte antes/después + análisis crítico.
+
 **Feche de Entrega:** 14 de abril, 2026
 
 ---
@@ -172,6 +177,7 @@ Ejemplos permitidos:
 - Reflexión sobre limitaciones.
 
 **Entregable:** Documento de análisis (2–3 páginas).
+
 **Feche de Entrega:** 21 de abril, 2026
 
 ---
@@ -193,6 +199,7 @@ Ejemplos permitidos:
 - Uso de IA para estructurar API.
 
 **Entregable:** Backend funcional.
+
 **Feche de Entrega:** 05 de mayo, 2026
 
 ---
@@ -204,6 +211,7 @@ Ejemplos permitidos:
 - Mejora UX con apoyo de IA.
 
 **Entregable:** UI funcional.
+
 **Feche de Entrega:** 12 de mayo, 2026
 
 ---
@@ -216,6 +224,7 @@ Ejemplos permitidos:
   - `AI_LOG.md`
 
 **Entregable principal:** Documento reproducible de despliegue.
+
 **Feche de Entrega:** 19 de mayo, 2026
 
 ---
@@ -237,6 +246,7 @@ Ejemplos permitidos:
 - Documentación reproducible.
 - Bitácora de uso de IA.
 - Video demo.
+
 
 **Feche de Entrega:** 26 de mayo, 2026
 
