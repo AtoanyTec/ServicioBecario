@@ -188,6 +188,7 @@ Ejemplos permitidos:
 - Validación.
 
 **Entregable:** Carpeta `/inference`.
+
 **Feche de Entrega:** 28 de abril, 2026
 
 ---
