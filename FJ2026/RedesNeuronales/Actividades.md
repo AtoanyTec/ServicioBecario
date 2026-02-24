@@ -320,4 +320,5 @@ Al finalizar, cada estudiante habrá desarrollado:
 
 **Responsable del Proyecto:**  
 Atoany Fierro
+
 Servicio Becario – Área de Inteligencia Artificial
