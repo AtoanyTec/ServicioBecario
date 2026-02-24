@@ -21,7 +21,6 @@
 - 💻 **Responsable de interfaz y experiencia de usuario.**
 - 📄 **Responsable de documentación e integración.**
 
-> Los roles pueden rotarse si el profesor lo considera conveniente.
 
 ---
 
